@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="welcome.jpg" /> ![](welcome.jpg)
+<img src="https://raw.githubusercontent.com/rajatmw1999/rajatmw1999/master/welcome.jpg" />
 
 #### https://rajatupadhyay.codes
 #### https://in.linkedin.com/rajatmw1999
