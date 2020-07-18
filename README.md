@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/rajatmw1999/rajatmw1999/master/welcome.jpg" />
 
-#### https://rajatupadhyay.codes
-#### https://in.linkedin.com/rajatmw1999
+#### 😄 https://rajatupadhyay.codes
+#### 💬 https://in.linkedin.com/rajatmw1999
+
