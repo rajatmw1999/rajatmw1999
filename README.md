@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Logo](/welcome.jpg)
+<img src="welcome.jpg" /> ![](welcome.jpg)
 
 #### https://rajatupadhyay.codes
 #### https://in.linkedin.com/rajatmw1999
