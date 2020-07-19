@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 #### 😄 https://rajatupadhyay.codes
 #### 💬 https://in.linkedin.com/rajatmw1999
 
-<p>![](https://trackmyvisits.herokuapp.com/getData)</p>
-curl -i -H 'Accept: application/json' https://trackmyvisits.herokuapp.com/getData
+![https://trackmyvisits.herokuapp.com/getData]()
+
