@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 #### 💬 https://in.linkedin.com/rajatmw1999
 
 <p>![](https://trackmyvisits.herokuapp.com/getData)</p>
-fetch('https://trackmyvisits.herokuapp.com/getData');
+curl -i -H 'Accept: application/json' https://trackmyvisits.herokuapp.com/getData
