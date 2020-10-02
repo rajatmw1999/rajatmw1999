@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 #### 😄 https://rajatupadhyay.codes
 #### 💬 https://in.linkedin.com/rajatmw1999
 
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-<script>
+```js script
 console.log("Hello boss here");
-</script>
+```
