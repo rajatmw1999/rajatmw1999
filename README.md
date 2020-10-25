@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 #### 😄 https://rajatupadhyay.codes
 #### 💬 https://in.linkedin.com/rajatmw1999
 
-```js script
-console.log("Hello boss here");
-```
