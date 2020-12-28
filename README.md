@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/rajatmw1999/rajatmw1999/master/welcome.jpg" />
+### Hi! Bonjour! Ni Hao! Hola! Namaste!
 
-#### 😄 https://rajatupadhyay.codes
-#### 💬 https://in.linkedin.com/rajatmw1999
-
+- 🔭 I’m currently working on skillunga.com ! Its basically something that can make teenagers useful for this world.
+- 👯 I’m looking to collaborate on innovative ventures having the potential to change the world or atleast make lives easier for others :p. 
+- 💬 Ask me about MERN, Django, Flask, GraphQL, DSA, Team Management, Digital Marketing!
+- 📫 How to reach me: https://in.linkedin.com/rajatmw1999
+- 😄 Pronouns: That's what HE said
+- ⚡ Fun fact: I have the ability to introduce bugs in a perfectly working code!
