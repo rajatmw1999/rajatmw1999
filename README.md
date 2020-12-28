@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about MERN, Django, Flask, GraphQL, DSA, Team Management, Digital Marketing!
 - 📫 How to reach me: https://in.linkedin.com/rajatmw1999
 - 😄 Pronouns: That's what HE said
-- ⚡ Fun fact: I have the ability to introduce bugs in a perfectly working code!
+- ⚡ Fun fact: Not many people know but I have the ability to introduce bugs in a perfectly working code!
