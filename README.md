@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: That's what HE said
 - ⚡ Fun fact: Not many people know but I have the ability to introduce bugs in a perfectly working code!
 
-
+![Visitor Count](https://profile-counter.glitch.me/rajatmw1999/count.svg)
