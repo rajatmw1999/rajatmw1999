@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on https://skillunga.com and https://jobs.skillunga.com ! Its basically something that can make teenagers useful for this world, and provide jobs for those who are looking for one(only for college students). Yes! I have created https://digitalbull.live too!
 - 👯 I’m looking to collaborate on innovative ventures having the potential to change the world or atleast make lives easier for others.
-- 💬 Ask me about MERN, Django, Flask, GraphQL, GatsbyJS,DSA, AWS, Team Management, Content Creation! I have a few hundred thousand views on quora https://quora.com/rajat-upadhyay-6 .
+- 💬 Ask me about MERN, Django, Flask, GraphQL, GatsbyJS, DSA, AWS, PWA, Team Management, Content Creation! I have a few hundred thousand views on quora https://quora.com/rajat-upadhyay-6 .
 - 📫 How to reach me: https://in.linkedin.com/rajatmw1999
 - 😄 Pronouns: That's what HE said
 - ⚡ Fun fact: Not many people know but I have the ability to introduce bugs in a perfectly working code!
