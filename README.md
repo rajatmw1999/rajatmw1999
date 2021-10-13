@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - Resources: I do technical story writing(belive me, you will love it) here: https://carrotblogs.medium.com . Some of my youtube podcasts and tutorials can be found here: https://www.youtube.com/channel/UCqrOaQvUtWyn3poSiQBgIfA 
 
 ![Visitor Count](https://profile-counter.glitch.me/rajatmw1999/count.svg)
+
+
+![RAJATMW1999](https://user-images.githubusercontent.com/43850934/137154189-c1e9eed6-eb05-4442-a949-084c299f2ce5.png)
