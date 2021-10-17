@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi! Bonjour! Ni Hao! Hola! Namaste!
 
 
-- 🔭 I have worked on https://skillunga.com and https://jobs.skillunga.com currently working on https://lazynotes.tech ! Its basically something that can make teenagers useful for this world, and provide jobs for those who are looking for one. Yes! I have created https://digitalbull.live too!
+- 🔭 I have worked on https://skillunga.com and https://jobs.skillunga.com currently working on https://lazynotes.tech ! Its basically something that can make teenagers useful for this world, and provide jobs for those who are looking for one. Yes! I have created https://www.digitalbull.live/14 too!
 - 👯 I’m looking to collaborate on innovative ventures having the potential to change the world or atleast make lives easier for others.
 - 💬 Ask me about MERN, Python, Django, Flask, GraphQL, GatsbyJS, DSA, AWS, PWA, Team Management, Content Creation! I have a few hundred thousand views on quora https://quora.com/rajat-upadhyay-6 .
 - 📫 How to reach me: https://in.linkedin.com/rajatmw1999
