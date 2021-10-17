@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://in.linkedin.com/rajatmw1999
 - 😄 Pronouns: That's what HE said
 - ⚡ Fun fact: Not many people know but I have the ability to introduce bugs in a perfectly working code!
-- Resources: I do technical story writing(belive me, you will love it) here: https://carrotblogs.medium.com . Some of my youtube podcasts and tutorials can be found here: https://www.youtube.com/channel/UCqrOaQvUtWyn3poSiQBgIfA 
+- Resources: I do technical story writing(believe me, you will love it) here: https://carrotblogs.medium.com . Some of my youtube podcasts and tutorials can be found here: https://www.youtube.com/channel/UCqrOaQvUtWyn3poSiQBgIfA 
 
 ![Visitor Count](https://profile-counter.glitch.me/rajatmw1999/count.svg)
 
