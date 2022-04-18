@@ -1,5 +1,3 @@
-Think Different!
-
 ![steve-jobs-think-different_1440x900_91962-min](https://user-images.githubusercontent.com/43850934/163874989-50a05b20-68c7-4900-90fb-3e1429ec194e.jpg)
 
 <!-- 
